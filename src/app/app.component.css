@@ -1,3 +1,17 @@
-p {
-  font-family: Lato;
+#para {
+  background-color: rgb(110, 226, 235);
+}
+
+.bot {
+  margin-bottom: 200px;
+}
+h2,h6 {
+  text-align: center;
+}
+#content {
+  text-align: center;
+}
+input,
+button {
+  padding: 6px;
 }
